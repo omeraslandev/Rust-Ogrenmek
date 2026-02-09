@@ -19,7 +19,7 @@ Bu öğreticinin anlaşılmasını aksatacak düzeyde bilgi, imla hataları, cü
 
 
 # Rust'ı Öğrenmek
-## Birinci Bölüm
+## 1️⃣ Birinci Bölüm
 * [Neden Rust?](1-adim/0-rust-dilinin-temelleri.md)
 * [Kurulum](1-adim/1-kurulum.md)
 * [Merhaba dünya!](1-adim/2-merhaba-dunya.md)
@@ -30,17 +30,17 @@ Bu öğreticinin anlaşılmasını aksatacak düzeyde bilgi, imla hataları, cü
 * [Temel veri türleri](1-adim/7-ilkeller.md)
 * [İşleçler](1-adim/8-operatorler.md)
 * [Kontrol akışı](1-adim/9-kontrol-akisi.md)
-## İkinci Bölüm
+## 2️⃣ İkinci Bölüm
 * [Vektörler](2-adim/0-vektorler.md)
 * [Yapılar](2-adim/1-yapilar.md)
 * [Numaralandırmalar](2-adim/2-enum.md)
 * [Genel Türler](2-adim/3-jenerikler.md)
 * [Uygulamalar ve Özellikler](2-adim/4-impl-and-traits.md)
-## Üçüncü Bölüm
+## 3️⃣ Üçüncü Bölüm
 * [Sahiplik ve Mülkiyet kavramı](3-adim/0-ownership.md)
 * [Borçlanma](3-adim/1-borrowing.md)
 * [Yaşam süreleri](3-adim/2-lifetimes.md)
-## Dördüncü Bölüm
+## 4️⃣ Dördüncü Bölüm
 * [Kod organizasyonu](4-adim/0-code-organization.md)
 * [İslevler](4-adim/1-functions.md)
 * [Modüller](4-adim/2-modules.md)
@@ -48,7 +48,7 @@ Bu öğreticinin anlaşılmasını aksatacak düzeyde bilgi, imla hataları, cü
 * [Çalışma alanları](4-adim/4-workspaces.md)
 * [Use anahtar sözcüğü](4-adim/5-use.md)
 * [Std, Temel türler ve Prelüdler](4-adim/6-std-primitives-and-preludes.md)
-## Beşinci Bölüm
+## 5️⃣ Beşinci Bölüm
 * [Akıllı derleyici](5-adim/0-smart-compiler.md)
 * [Panik](5-adim/1-panicking.md)
 * [Option ve Result](5-adim/2-option-and-result.md)
